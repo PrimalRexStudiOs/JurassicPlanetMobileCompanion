@@ -10,5 +10,9 @@
   {
     "dino": "Stegosaur",
     "progress": "0.8"
+  },
+  {
+    "dino": "Gallimimus",
+    "progress": "0.8"
   }
 ]
