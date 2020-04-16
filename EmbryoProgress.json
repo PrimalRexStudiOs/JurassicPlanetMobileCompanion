@@ -1,18 +1,18 @@
 [
   {
     "dino": "Tyrannosaurus Rex",
-    "progress": "Model: ✔ Anim: ✔ A.I: ❎"
+    "progress": "Model: ✅ Anim: ❌ A.I: ❌"
   },
   {
     "dino": "Triceratops",
-    "progress": "1.0"
+    "progress": "Model: ✅ Anim: ✅ A.I: ✅"
   },
   {
-    "dino": "Stegosaur",
-    "progress": "0.8"
+    "dino": "Stegosaurus",
+    "progress": "Model: ✅ Anim: ✅ A.I: ❌"
   },
   {
     "dino": "Gallimimus",
-    "progress": "0.8"
+    "progress": "Model: ✅ Anim: ✅ A.I: ❌"
   }
 ]
