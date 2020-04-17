@@ -1,18 +1,30 @@
 [
   {
-    "dino": "Tyrannosaurus Rex",
-    "progress": "Model: ✅ Anim: ❌ A.I: ❌"
+    "dino": " Tyrannosaurus Rex",
+    "progress": " Model: ✅ Anim: ❌ A.I: ❌"
   },
   {
-    "dino": "Triceratops",
-    "progress": "Model: ✅ Anim: ✅ A.I: ✅"
+    "dino": " Triceratops",
+    "progress": " Model: ✅ Anim: ✅ A.I: ✅"
   },
   {
-    "dino": "Stegosaurus",
-    "progress": "Model: ✅ Anim: ✅ A.I: ❌"
+    "dino": " Stegosaurus",
+    "progress": " Model: ✅ Anim: ✅ A.I: ❌(REFINEMENT)"
   },
   {
-    "dino": "Gallimimus",
-    "progress": "Model: ✅ Anim: ✅ A.I: ❌"
+    "dino": " Gallimimus",
+    "progress": " Model: ✅ Anim: ✅ A.I: ❌(REFINEMENT)"
+  },
+  {
+    "dino": " Pteranodon",
+    "progress": " Model: ✅ Anim: ✅ A.I: ❌(REFINEMENT)"
+  },
+  {
+    "dino": " Brachiosaurus",
+    "progress": " Model: ✅ Anim: ✅ A.I: ❌(REFINEMENT)"
+  },
+  {
+    "dino": " Dilophosaurus",
+    "progress": " Model: ✅ Anim: ❌ A.I: ❌"
   }
 ]
